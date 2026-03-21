@@ -7,9 +7,12 @@ This is the Power BI Dashboard analyzes Zomato restaurant Data to understand key
 
 ## 🎯Key Insights
 
-•Total Restaurants-9551 Analyzed across Multiple Cities 
+•Total Restaurants-9551 Analyzed across Multiple Cities
+
 •Total Votes-1 Million shows Customer Satisfaction 
-•% Table Booking -12%,indicating  very Low Adoption of Reservation Services 
+
+•% Table Booking -12%,indicating  very Low Adoption of Reservation Services
+
 •Avergae Rating -2.89,indicating moderate overall Customer Satisfaction.
 •Higher Priced Restaurants tend to have Slightly better Ratings
 •Majaority (Around 74%) of Restaurants offer Online Delivery 
