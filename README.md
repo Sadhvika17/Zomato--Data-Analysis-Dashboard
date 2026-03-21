@@ -14,7 +14,11 @@ This is the Power BI Dashboard analyzes Zomato restaurant Data to understand key
 •% Table Booking -12%,indicating  very Low Adoption of Reservation Services
 
 •Avergae Rating -2.89,indicating moderate overall Customer Satisfaction.
+
 •Higher Priced Restaurants tend to have Slightly better Ratings
-•Majaority (Around 74%) of Restaurants offer Online Delivery 
-•New Delhi has the Highest number of restaurants amoung all Cities 
+
+•Majaority (Around 74%) of Restaurants offer Online Delivery
+
+•New Delhi has the Highest number of restaurants amoung all Cities
+
 •Restaurants growth shows a gradual increase over time. 
