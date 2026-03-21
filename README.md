@@ -4,7 +4,7 @@ Power BI Dashboard analysing restaurant Data, Rating, pricing trends and growth 
 This is the Power BI Dashboard analyzes Zomato restaurant Data to understand key Patterns in Rating , Pricing and Growth.The Dashboard Provieds insignts into how Pricing Impacts ratings ,Distribuation of Restaurants across cities and availability of servies like online Delivery and Table Booking. 
 ## 🖥️Dashboard Preview
 <img width="1306" height="718" alt="Screenshot 2026-03-21 054608" src="https://github.com/user-attachments/assets/6c33c6a4-0f0c-4b0c-a387-2e9278f85dd8" />
-## Key Insights
+## 🎯Key Insights
 
 •Total Restaurants-9551 Analyzed across Multiple Cities 
 •Total Votes-1 Million shows Customer Satisfaction 
