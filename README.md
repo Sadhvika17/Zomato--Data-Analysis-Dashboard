@@ -1,4 +1,4 @@
-# Zomato--Data-Analysis-Dashboard
+# Zomato-Data-Analysis-Dashboard
 Power BI Dashboard analysing restaurant Data, Rating, pricing trends and growth insights.
 ## 📊Project Overview
 This is the Power BI Dashboard analyzes Zomato restaurant Data to understand key Patterns in Rating , Pricing and Growth.The Dashboard Provieds insignts into how Pricing Impacts ratings ,Distribuation of Restaurants across cities and availability of servies like online Delivery and Table Booking. 
